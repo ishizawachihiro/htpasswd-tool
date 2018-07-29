@@ -12,3 +12,4 @@ for num in range(1, 501):
 
 with open("userpasslist.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(userpasslist))
+
